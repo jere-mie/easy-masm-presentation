@@ -26,7 +26,7 @@ Presented by Jeremie Bornais
 
 Easy-MASM is the simplest way to assemble, link, and run masm32 files for COMP-2660.
 
-It works on Windows out of the box, Linux with WINE installed, and *hopefully* MacOS thanks to Docker.
+It works on Windows out of the box, Linux with WINE installed, and MacOS thanks to Docker.
 
 You can also run it on popular online IDEs like GitHub Codespaces and Gitpod
 
