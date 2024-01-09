@@ -49,6 +49,12 @@ You can also run it on popular online IDEs like GitHub Codespaces and Gitpod
 
 ---
 
+# See Easy-MASM in Action
+
+![](https://user-images.githubusercontent.com/47261508/150897022-f96b097d-8246-435c-8caf-37eb6949b10f.gif)
+
+---
+
 # Have any Questions?
 
 Feel free to reach out to me at [borna113@uwindsor.ca](mailto:borna113@uwindsor.ca)!
