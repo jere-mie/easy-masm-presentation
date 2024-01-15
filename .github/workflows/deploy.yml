@@ -25,6 +25,7 @@ jobs:
               run: |
                   npm install
                   npm i -g @slidev/cli
+                  npm i -g @slidev/theme-seriph
                   slidev build --base easy-masm-presentation
             - name: Deploy to GitHub Pages
               if: success()
