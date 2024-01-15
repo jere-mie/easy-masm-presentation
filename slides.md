@@ -31,7 +31,7 @@ Presented by Jeremie Bornais
 - Questions
 - Interactive Demo
 
-<img src="img/masm2.jpg" style="width: 25%">
+<img src="/img/masm2.jpg" style="width: 25%">
 
 ---
 
@@ -55,8 +55,8 @@ You can also run it on popular online IDEs like GitHub Codespaces and Gitpod
 </style>
 
 <div class="image-container">
-  <img src="img/masm.jpg" />
-  <img src="img/wine.jpg" />
+  <img src="/img/masm.jpg" />
+  <img src="/img/wine.jpg" />
 </div>
 
 ---
@@ -69,9 +69,9 @@ You can also run it on popular online IDEs like GitHub Codespaces and Gitpod
 4. You can use any text editor you want. Whether it's VS Code, Notepad++, or Vim, Easy-MASM does not discriminate
 
 <div style="display: flex;">
-<img src="img/vscode.png" style="width: 20%; margin-right: 32px;">
-<img src="img/vim.png" style="width: 20%; margin-right: 32px;">
-<img src="img/npp.png" style="width: 20%; margin-right: 32px;">
+<img src="/img/vscode.png" style="width: 20%; margin-right: 32px;">
+<img src="/img/vim.png" style="width: 20%; margin-right: 32px;">
+<img src="/img/npp.png" style="width: 20%; margin-right: 32px;">
 </div>
 
 ---
