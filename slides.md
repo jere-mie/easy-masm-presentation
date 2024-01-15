@@ -82,13 +82,13 @@ You can also run it on popular online IDEs like GitHub Codespaces and Gitpod
 2. Edit the “source.asm” file (or create your own .asm file) in the “src” folder
 3. Run your program from the Command Prompt or PowerShell using `.\run source`
 
-![](img/repo.png)
+![](/img/repo.png)
 
 ---
 
 # See Easy-MASM in Action
 
-![](img/easymasm.gif)
+![](/img/easymasm.gif)
 
 ---
 
@@ -162,4 +162,4 @@ Documentation on GitHub
 
 # Interactive Demo
 
-![](img/typing.gif)
+![](/img/typing.gif)
